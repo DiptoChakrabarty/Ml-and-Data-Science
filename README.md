@@ -40,7 +40,11 @@
    - SVM
       - [An Idiots Guide to SVM ](http://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf)
       - [Video example](https://www.youtube.com/watch?v=N1vOgolbjSc)
+      - [Another Video](https://www.youtube.com/watch?v=Y6RRHw9uN9o)
    - IsolationForest
+      - [Explanation](https://towardsdatascience.com/outlier-detection-with-isolation-forest-3d190448d45e)
+      - [Another Article](https://towardsdatascience.com/anomaly-detection-with-isolation-forest-visualization-23cd75c281e2)
+      - [Isolation Forest Video](https://www.youtube.com/watch?v=5p8B2Ikcw-k&t=759s)
    - LocalOutlierFactor
    
  2) Prediction Measurements
