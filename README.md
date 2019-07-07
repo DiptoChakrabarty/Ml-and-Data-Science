@@ -77,12 +77,14 @@ Please give a :star: to show your support
       - [Understand The Dense Layer](http://hunterheidenreich.com/blog/understanding_keras_dense_layers/)
       - [Video on Dense Layer](https://www.youtube.com/watch?v=oXMEeGrAuk0)
   - Adam
-      - [Intra to Adam](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/)
+      - [Intro to Adam](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/)
       - [What is Adam](https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c)
   - KerasClassifier
 
 2) nltk
   - word_tokenize,sent_tokenize
+      - [Why Tokenize](https://uclmr.github.io/stat-nlp-book-scala/01_tasks/00_tokenization.html)
+      - [Tokenize](https://pythonspot.com/tokenizing-words-and-sentences-with-nltk/)
   - stopwords
   - PunktSentenceTokenizer
   - Stemming
