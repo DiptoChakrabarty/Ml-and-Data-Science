@@ -1,4 +1,6 @@
-# DS-And-ML
+# Machine Learning and Data Science
+
+
 
 ```
    
@@ -18,6 +20,10 @@
 ### Machine Learning
 1) Models
    - LinearRegression
+     [Linear Regression](https://realpython.com/linear-regression-in-python/)
+     [Video Explanation](https://www.youtube.com/watch?v=wNPVunv1N9M)
+     [Multi Variable LinearRegression Video](https://www.youtube.com/watch?v=5rvnlZWzox8)
+     [MultiVariable Explanation](http://www.statsoft.com/Textbook/Multiple-Regression)
    - RandomForestRegressor
    - KNeighborsClassifier
    - SVM
