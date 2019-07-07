@@ -34,7 +34,12 @@
       - [Article Explanation](https://dataaspirant.com/2017/05/22/random-forest-algorithm-machine-learing/)
       - [Video Explanation](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&t=21s)
    - KNeighborsClassifier
+      - [Code Explanation](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/) 
+      - [Kneighbors Explained](https://www.youtube.com/watch?v=UqYde-LULfs)
+      - [Video Explanation](https://www.youtube.com/watch?v=1i0zu9jHN6U)
    - SVM
+      - [An Idiots Guide to SVM ](http://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf)
+      - [Video example](https://www.youtube.com/watch?v=N1vOgolbjSc)
    - IsolationForest
    - LocalOutlierFactor
    
