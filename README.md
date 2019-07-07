@@ -9,9 +9,22 @@
 * Sklearn to implement Machine Learning Models . 
 ```
 
-### Libraries Used
+### Data Preprocessing and Visualization
 1) Pandas
 2) Numpy
 3) Matplotlib
 4) Seaborn
+
+### Deep Learning and Nlp 
+1) Keras
+ - Sequential
+ - Dense
+ - Adam
+ - KerasClassifier
+2) nltk
+ - word_tokenize,sent_tokenize
+ - stopwords
+ - PunktSentenceTokenizer
+ - Stemming
+
 
