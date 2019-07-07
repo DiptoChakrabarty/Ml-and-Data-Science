@@ -15,16 +15,19 @@
 3) Matplotlib
 4) Seaborn
 
+### Machine Learning
+
+
 ### Deep Learning and Nlp 
 1) Keras
- - Sequential
- - Dense
- - Adam
- - KerasClassifier
+  - Sequential
+  - Dense
+  - Adam
+  - KerasClassifier
 2) nltk
- - word_tokenize,sent_tokenize
- - stopwords
- - PunktSentenceTokenizer
- - Stemming
+  - word_tokenize,sent_tokenize
+  - stopwords
+  - PunktSentenceTokenizer
+  - Stemming
 
 
