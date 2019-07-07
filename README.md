@@ -46,14 +46,22 @@
       - [Another Article](https://towardsdatascience.com/anomaly-detection-with-isolation-forest-visualization-23cd75c281e2)
       - [Isolation Forest Video](https://www.youtube.com/watch?v=5p8B2Ikcw-k&t=759s)
    - LocalOutlierFactor
+      - [Article](https://turi.com/learn/userguide/anomaly_detection/local_outlier_factor.html)
+      - [Video Series](https://www.youtube.com/watch?v=nbNiD76yE8o&list=PL8Bgdi87Y1lWJtBDuStNuEGoXKVFmMrF3)
    
  2) Prediction Measurements
    - mean_absolute_error
+      - [Mean Absolute Error](https://www.statisticshowto.datasciencecentral.com/absolute-error/)
    - accuracy_score
+      - [Accuracy Score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html)
    - classification_report
+      - [Classification Report](https://joshlawman.com/metrics-classification-report-breakdown-precision-recall-f1/)
  3) Scaling
    - StandardScaler
+      - [Standard Scaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
    - RobustScaler
+      - [Robust Scaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.RobustScaler.html)
+   - [Difference In Types of Scalers](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html)
 
 
 ### Deep Learning and Nlp 
