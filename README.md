@@ -1,5 +1,6 @@
 # Machine Learning and Data Science
 
+Please give a :star: to show your support  
 
 
 ```
@@ -66,10 +67,18 @@
 
 ### Deep Learning and Nlp 
 1) Keras
+  - [All about Keras](https://www.guru99.com/keras-tutorial.html)
   - Sequential
+    [Guide To Sequential Model](https://keras.io/getting-started/sequential-model-guide/)
+    [How To Build Multi-Layer Perceptron Neural Network Models with Keras](https://machinelearningmastery.com/build-multi-layer-perceptron-neural-network-models-keras/)
+    [Getting started with Sequential model Video](https://www.youtube.com/watch?v=VGCHcgmZu24)
   - Dense
+    [The Dense Layer](https://keras.io/layers/core/)
+    [Understand The Dense Layer](http://hunterheidenreich.com/blog/understanding_keras_dense_layers/)
+    [Video on Dense Layer](https://www.youtube.com/watch?v=oXMEeGrAuk0)
   - Adam
   - KerasClassifier
+
 2) nltk
   - word_tokenize,sent_tokenize
   - stopwords
