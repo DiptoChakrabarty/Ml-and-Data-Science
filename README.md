@@ -31,6 +31,8 @@
       - [Decision Trees](https://medium.com/greyatom/decision-trees-a-simple-way-to-visualize-a-decision-dc506a403aeb)
       - [Video Explanation](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO)
    - RandomForestRegressor
+      - [Article Explanation](https://dataaspirant.com/2017/05/22/random-forest-algorithm-machine-learing/)
+      - [Video Explanation](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&t=21s)
    - KNeighborsClassifier
    - SVM
    - IsolationForest
