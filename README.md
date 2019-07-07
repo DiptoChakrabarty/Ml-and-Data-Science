@@ -16,6 +16,22 @@
 4) Seaborn
 
 ### Machine Learning
+1) Models
+   - LinearRegression
+   - RandomForestRegressor
+   - KNeighborsClassifier
+   - SVM
+   - IsolationForest
+   - LocalOutlierFactor
+   - LogisticRegression
+   - DecisionTreeRegressor
+ 2) Prediction Measurements
+   - mean_absolute_error
+   - accuracy_score
+   - classification_report
+ 3) Scaling
+   - StandardScaler
+   - RobustScaler
 
 
 ### Deep Learning and Nlp 
