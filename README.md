@@ -69,14 +69,16 @@ Please give a :star: to show your support
 1) Keras
   - [All about Keras](https://www.guru99.com/keras-tutorial.html)
   - Sequential
-    [Guide To Sequential Model](https://keras.io/getting-started/sequential-model-guide/)
-    [How To Build Multi-Layer Perceptron Neural Network Models with Keras](https://machinelearningmastery.com/build-multi-layer-perceptron-neural-network-models-keras/)
-    [Getting started with Sequential model Video](https://www.youtube.com/watch?v=VGCHcgmZu24)
+     - [Guide To Sequential Model](https://keras.io/getting-started/sequential-model-guide/)
+     - [How To Build Multi-Layer Perceptron Neural Network Models with Keras](https://machinelearningmastery.com/build-multi-layer-perceptron-neural-network-models-keras/)
+     - [Getting started with Sequential model Video](https://www.youtube.com/watch?v=VGCHcgmZu24)
   - Dense
-    [The Dense Layer](https://keras.io/layers/core/)
-    [Understand The Dense Layer](http://hunterheidenreich.com/blog/understanding_keras_dense_layers/)
-    [Video on Dense Layer](https://www.youtube.com/watch?v=oXMEeGrAuk0)
+      - [The Dense Layer](https://keras.io/layers/core/)
+      - [Understand The Dense Layer](http://hunterheidenreich.com/blog/understanding_keras_dense_layers/)
+      - [Video on Dense Layer](https://www.youtube.com/watch?v=oXMEeGrAuk0)
   - Adam
+      - [Intra to Adam](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/)
+      - [What is Adam](https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c)
   - KerasClassifier
 
 2) nltk
