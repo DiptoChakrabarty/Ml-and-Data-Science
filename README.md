@@ -18,7 +18,7 @@ Please give a :star: to show your support  :wink:
 3) Matplotlib
 4) Seaborn
 
-### Machine Learning
+### Machine Learning  :zap:
 1) Models
    - LinearRegression
       - [Linear Regression](https://realpython.com/linear-regression-in-python/)
@@ -65,7 +65,7 @@ Please give a :star: to show your support  :wink:
    - [Difference In Types of Scalers](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html)
 
 
-### Deep Learning and Nlp 
+### Deep Learning and Nlp :fire:
 1) Keras
   - [All about Keras](https://www.guru99.com/keras-tutorial.html)
   - Sequential
