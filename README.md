@@ -15,7 +15,9 @@ Please give a :star: to show your support if you like this repository :wink:
 
 ### Data Preprocessing and Visualization
 1) Pandas  :panda_face:
+   - [Pandas Tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 2) Numpy
+   - [Numpy Tutorial](https://www.guru99.com/numpy-tutorial.html)
 3) Matplotlib
 4) Seaborn
 
@@ -69,6 +71,7 @@ Please give a :star: to show your support if you like this repository :wink:
 ### Deep Learning and Nlp :fire:
 1) Keras
   - [All about Keras](https://www.guru99.com/keras-tutorial.html)
+  - [A friendly guide to Keras](https://victorzhou.com/blog/keras-neural-network-tutorial/)
   - Sequential
      - [Guide To Sequential Model](https://keras.io/getting-started/sequential-model-guide/)
      - [How To Build Multi-Layer Perceptron Neural Network Models with Keras](https://machinelearningmastery.com/build-multi-layer-perceptron-neural-network-models-keras/)
@@ -83,6 +86,7 @@ Please give a :star: to show your support if you like this repository :wink:
   - KerasClassifier
 
 2) nltk
+  - [What is Nltk](https://www.nltk.org/)
   - word_tokenize,sent_tokenize
       - [Why Tokenize](https://uclmr.github.io/stat-nlp-book-scala/01_tasks/00_tokenization.html)
       - [Tokenize](https://pythonspot.com/tokenizing-words-and-sentences-with-nltk/)
