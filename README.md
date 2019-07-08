@@ -1,6 +1,6 @@
-# Machine Learning and Data Science
+# Machine Learning and Data Science  :smile:
 
-Please give a :star: to show your support  
+Please give a :star: to show your support  :wink:
 
 
 ```
@@ -13,7 +13,7 @@ Please give a :star: to show your support
 ```
 
 ### Data Preprocessing and Visualization
-1) Pandas
+1) Pandas  :panda_face:
 2) Numpy
 3) Matplotlib
 4) Seaborn
@@ -86,7 +86,12 @@ Please give a :star: to show your support
       - [Why Tokenize](https://uclmr.github.io/stat-nlp-book-scala/01_tasks/00_tokenization.html)
       - [Tokenize](https://pythonspot.com/tokenizing-words-and-sentences-with-nltk/)
   - stopwords
+      - [What are Stopwords and Examples](https://www.tutorialspoint.com/python/python_remove_stopwords.htm)
+      - [How to implement StopWords](https://pythonspot.com/nltk-stop-words/)
   - PunktSentenceTokenizer
+      - [PunktSentenceTokenizer](https://pythonprogramming.net/part-of-speech-tagging-nltk-tutorial/)
   - Stemming
+      - [What is Stemming](https://searchenterpriseai.techtarget.com/definition/stemming)
+      - [Stemming and Lemmatization](https://towardsdatascience.com/stemming-lemmatization-what-ba782b7c0bd8)
 
 
