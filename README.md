@@ -16,10 +16,13 @@ Please give a :star: to show your support if you like this repository :wink:
 ### Data Preprocessing and Visualization
 1) Pandas  :panda_face:
    - [Pandas Tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
+   - [Check out this Awesome Repo](https://github.com/wesm/pydata-book)
 2) Numpy
    - [Numpy Tutorial](https://www.guru99.com/numpy-tutorial.html)
 3) Matplotlib
+    -[Matplotlib Tutorial](https://www.edureka.co/blog/python-matplotlib-tutorial/)
 4) Seaborn
+    - [Seaborn Tutorial](https://www.kaggle.com/kanncaa1/seaborn-tutorial-for-beginners)
 
 ### Machine Learning  :zap:
 1) Models
