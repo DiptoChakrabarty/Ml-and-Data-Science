@@ -1,6 +1,6 @@
 # Machine Learning and Data Science  :smile:
 
-Please give a :star: to show your support  :wink:
+Please give a :star: to show your support if you like this repository :wink:
 
 
 ```
@@ -10,6 +10,7 @@ Please give a :star: to show your support  :wink:
 * Pandas and Numpy for Data Pre-processing and analysis . 
 * Matplotlib and Seaborn for Data visualization . 
 * Sklearn to implement Machine Learning Models . 
+* All methods and techniques used are Listed Below 
 ```
 
 ### Data Preprocessing and Visualization
