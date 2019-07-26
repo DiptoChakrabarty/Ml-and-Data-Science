@@ -22,7 +22,7 @@ Please give a :star: to show your support if you like this repository :wink:
 3) Matplotlib
    - [Matplotlib Tutorial](https://www.edureka.co/blog/python-matplotlib-tutorial/)
 4) Seaborn
-    - [Seaborn Tutorial](https://www.kaggle.com/kanncaa1/seaborn-tutorial-for-beginners)
+   - [Seaborn Tutorial](https://www.kaggle.com/kanncaa1/seaborn-tutorial-for-beginners)
 
 ### Machine Learning  :zap:
 1) Models
